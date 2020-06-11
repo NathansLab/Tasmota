@@ -1,0 +1,5 @@
+Hier alle Files die ich geändert habe (die bei Migration zur neueren Version berüksichtigt werden müssen):
+
+platformio_tasmota_env.ini
+platformio_tasmota_env32.ini
+tasmota\my_user_config.h
