@@ -43,7 +43,7 @@
 
 /*
 Examples :
-
+ 
 // -- Master parameter control --------------------
 #undef  CFG_HOLDER
 #define CFG_HOLDER        4617                   // [Reset 1] Change this value to load SECTION1 configuration parameters to flash
